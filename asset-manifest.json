@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Al-Ruhmi/test4/static/css/main.019a67c5.css",
-    "main.js": "/Al-Ruhmi/test4/static/js/main.fb7002eb.js",
-    "index.html": "/Al-Ruhmi/test4/index.html",
-    "main.019a67c5.css.map": "/Al-Ruhmi/test4/static/css/main.019a67c5.css.map",
-    "main.fb7002eb.js.map": "/Al-Ruhmi/test4/static/js/main.fb7002eb.js.map"
+    "main.css": "/test4/static/css/main.019a67c5.css",
+    "main.js": "/test4/static/js/main.fb7002eb.js",
+    "index.html": "/test4/index.html",
+    "main.019a67c5.css.map": "/test4/static/css/main.019a67c5.css.map",
+    "main.fb7002eb.js.map": "/test4/static/js/main.fb7002eb.js.map"
   },
   "entrypoints": [
     "static/css/main.019a67c5.css",
